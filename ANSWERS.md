@@ -11,6 +11,7 @@ Specifically, I used the AI assistant for the following tasks:
 2. **Statistical Calculations:** Writing functions to accurately compute 95% Wilson score confidence intervals for retrieval recall and pipeline cell accuracies.
 3. **Cost Modeling and Formulas:** Verifying the token pricing logic and annual cost formulas based on daily traffic volumes, prompt token counts, and cloud server hosting fees provided in `DATA.md`.
 4. **Drafting and Formatting:** Structuring the final text in Markdown format for `ANSWERS.md`, including polishing the compliance memo and ensuring all short-answer explanations adhered to the required word counts.
+   
 All calculations, model selection trade-offs, budget verification, and legal/ethical justifications were carefully reviewed, verified, and finalized by me.
 
 ## Part 1: Retrieval and cost decision
