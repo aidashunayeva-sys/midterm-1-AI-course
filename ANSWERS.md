@@ -1,18 +1,13 @@
 # Midterm 1: answers
 
 GitHub username:aidashunayeva-sys
+
 Session code: KETTLE-62
+
 Fingerprint: 687a0422
 
 ## AI-use declaration
-During this exam, I used Gemini AI as an assistant to support data analysis, coding, and document structuring as needed.
-Specifically, I used the AI assistant for the following tasks:
-1. **Scripting and Automation:** Generating and refining Python code to load `retrieval_ranks.csv` and `doc_results.csv` in Google Colab, and calculating evaluation metrics such as Recall@k, MRR@10, and overall document extraction accuracy.
-2. **Statistical Calculations:** Writing functions to accurately compute 95% Wilson score confidence intervals for retrieval recall and pipeline cell accuracies.
-3. **Cost Modeling and Formulas:** Verifying the token pricing logic and annual cost formulas based on daily traffic volumes, prompt token counts, and cloud server hosting fees provided in `DATA.md`.
-4. **Drafting and Formatting:** Structuring the final text in Markdown format for `ANSWERS.md`, including polishing the compliance memo and ensuring all short-answer explanations adhered to the required word counts.
-   
-All calculations, model selection trade-offs, budget verification, and legal/ethical justifications were carefully reviewed, verified, and finalized by me.
+During this task, I used Gemini AI to help write Python code in Google Colab for calculating retrieval metrics (Recall@k, MRR@10) and 95% Wilson confidence intervals. I also used it to check token pricing formulas from `DATA.md` and format the final Markdown text in `ANSWERS.md`. All final decisions, numbers, and answers were reviewed and verified by me.
 
 ## Part 1: Retrieval and cost decision
 
